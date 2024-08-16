@@ -34,11 +34,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
-![5](https://github.com/user-attachments/assets/46a70007-26aa-432f-b6dd-77acd14e7652)
-![4](https://github.com/user-attachments/assets/b55ea4da-39b8-4cc3-8fd7-ef0ecced9a90)
-![3](https://github.com/user-attachments/assets/70391db3-4183-494c-bca9-3caabe555b48)
-![2](https://github.com/user-attachments/assets/d6128e77-b45c-435d-92fe-c628d3b7df1b)
-![1](https://github.com/user-attachments/assets/ce718136-62ac-4535-bdf7-9f8acef50612)
-
-
-
+![1](https://github.com/user-attachments/assets/9c7e76f6-b9ed-445b-989a-98dda23f3572)
+![2](https://github.com/user-attachments/assets/1c609fd4-6ce5-4c5e-8f3f-ed82897111c5)
+![3](https://github.com/user-attachments/assets/beb9d803-d126-4661-b52a-c5698baa0e99)
+![4](https://github.com/user-attachments/assets/8fbf35f5-4b4a-40da-9d38-804df2bba1e5)
+![5](https://github.com/user-attachments/assets/fbe0a283-542c-4cc6-8308-7e7f4be05cf0)
